@@ -21,7 +21,8 @@ Upgrade your iOS app with MiniAiLive's Face Liveness Detection!   With our advan
 
 <br></br>
 
-https://github.com/MiniAiLive/MiniAI-Face-LivenessDetection-Android/assets/106538966/e93e6a6a-69f8-4b1c-9510-14caed8043c0
+https://github.com/MiniAiLive/MiniAI-Face-LivenessDetection-iOS-SDK/assets/153516004/93dc449f-fe11-479e-9bd6-5f01721ddc3a
+
 
 ## About MiniAiLive
 [MiniAiLive](https://www.miniai.live/) is a leading AI solutions company specializing in computer vision and machine learning technologies. We provide cutting-edge solutions for various industries, leveraging the power of AI to drive innovation and efficiency.
