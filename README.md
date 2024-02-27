@@ -5,7 +5,7 @@
 </div>
 
 ## Welcome to the [MiniAiLive](https://www.miniai.live/)!
-Upgrade your iOS app with MiniAiLive's Face Liveness Detection!   With our advanced computer vision techniques, you can now enhance security and accuracy on your iOS platform. Check out our latest repository containing a demonstration of 2D &amp; 3D face liveness detection capabilities.   Try it out today!
+Upgrade your iOS app with MiniAiLive's 3D Passive Face Liveness Detection!   With our advanced computer vision techniques, you can now enhance security and accuracy on your iOS platform. Check out our latest repository containing a demonstration of 2D &amp; 3D Passive face liveness detection capabilities.   Try it out today!
 
 
 > **Note**
